@@ -55,7 +55,7 @@ Planned content:
 
 ## 🙋 About Me
 
-Hi, I'm **Long**, a student passionate about:
+Hi, I'm **Long**, a first-year student at SOICT - Hanoi Univ of Sci&Tech , I'm passionate about:
 - 🌐 AI & Machine Learning
 - ⚙️ Embedded Systems
 - 🚗 Intelligent Vehicles
