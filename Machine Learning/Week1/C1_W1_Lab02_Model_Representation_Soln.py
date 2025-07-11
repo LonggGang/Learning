@@ -2,14 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 # Use a default matplotlib style to avoid missing file errors
 plt.style.use('ggplot')
-
-
 x_train = np.array([1.0, 2.0])   # features
 y_train = np.array([300.0, 500.0]) # target value
-
-print(f"x_train shape: {x_train.shape}")
-print(f"y_train shape: {y_train.shape}")
-
 m = x_train.shape[0]
 print(f"Number of training examples is: {m}")
 
