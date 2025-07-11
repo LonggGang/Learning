@@ -25,11 +25,6 @@ A collection of notebooks, code, and experiments related to my Machine Learning 
 
 🚧 **Coming Soon!**
 
-I plan to build and showcase mini-projects related to:
-- Embedded Systems
-- AI & Robotics
-- Self-driving toy car (with camera + path planning)
-
 Stay tuned! 🚀
 
 ---
