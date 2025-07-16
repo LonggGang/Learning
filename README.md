@@ -22,8 +22,8 @@ A collection of notebooks, code, and experiments related to my Machine Learning 
 ---
 
 ## 🛠️ Projects
-
-🚧 **Coming Soon!**
+- ML Project 1 : [Link](https://github.com/LonggGang/Learning/tree/main/Project/ML_Project_1)
+  Difficulty : (⭐)
 
 Stay tuned! 🚀
 
