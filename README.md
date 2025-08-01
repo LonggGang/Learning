@@ -30,7 +30,7 @@ Stay tuned! 🚀
 ---
 
 ## 📝 Learning Documents
-
+ML and DL Useful resources: https://ml-resources.vercel.app
 📖 Currently **updating** this section...
 
 Planned content:
