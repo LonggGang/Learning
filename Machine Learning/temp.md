@@ -102,6 +102,7 @@ The heart of the learning algorithm is we're going to train a neural network tha
 
 **Lunar Lander Example**
 
+Input (X): 
 * State :
 $$ 
 S = \begin{bmatrix} x \\ y \\ \dot{x} \\ \dot{y} \\ \theta \\ \dot{\theta} \\ l \\ r \end{bmatrix} 
@@ -112,4 +113,19 @@ $$
   * Left
   * Main
   * Right
-We can encode any of those four actions using a one-hot feature vector. $\rightarrow$ four binary number vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv vvvvvvfvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+We can encode any of those four actions using a one-hot feature vector. $\rightarrow$ four binary number.
+
+$\rightarrow$ Neural Network Input : $\vec{x}$ = [ S , Action] (12 numbers)
+
+Model :
+
+We'll then take these 12 numbers and feed them to a neural network with, say, 64 units in the first hidden layer, 64 units in the second hidden layer, and then a single output in the output layer.
+
+Output (Y):
+
+$ Q(S,a) $ for all four actions. Whichever of these has the highest value, we would pick the corresponding action A.
+
+Problem: But how do you get a training set with values for X and Y that you can then train a neural network on? 
+
+***Bellman Equation***
+
