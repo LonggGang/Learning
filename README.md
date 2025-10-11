@@ -36,7 +36,6 @@ ML and DL Useful resources: https://ml-resources.vercel.app
 Planned content:
 - Summary notes from courses
 - Key concepts & cheat sheets
-- Mindmaps and visual diagrams
 ---
 
 ## 📌 Future Plans
@@ -44,7 +43,7 @@ Planned content:
 ✅ Upcoming topics I aim to add here:
 - Deep Learning (CNN, RNN, Transformers)
 - MLOps & Deployment
-- Real-time Embedded AI (for autonomous vehicles)
+\
 
 ---
 
