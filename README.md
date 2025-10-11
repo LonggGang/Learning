@@ -54,9 +54,5 @@ Hi, I'm **Long**, a first-year student at SOICT - Hanoi Univ of Sci&Tech , I'm p
 - 🌐 AI & Machine Learning
 - 🚗 Autonomous Systems
 
-> “Learning is not a race, it's a journey — and this repo is my map.”
-
-Feel free to ⭐ star the repo or follow along!  
-I'll update this regularly as I grow 🌱
 
 ---
