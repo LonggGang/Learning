@@ -1,7 +1,5 @@
 # 🚀 My Learning Journey
 
-> Welcome to my personal learning repository where I document everything I'm studying, building, and exploring on my path to becoming a better developer and AI engineer.
-
 ---
 
 ## 📚 Table of Contents
@@ -40,10 +38,7 @@ Planned content:
 
 ## 📌 Future Plans
 
-✅ Upcoming topics I aim to add here:
-- Deep Learning (CNN, RNN, Transformers)
-- MLOps & Deployment
-\
+
 
 ---
 
@@ -51,7 +46,6 @@ Planned content:
 
 Hi, I'm **Long**, a first-year student at SOICT - Hanoi Univ of Sci&Tech , I'm passionate about:
 - 🌐 AI & Machine Learning
-- 🚗 Autonomous Systems
 
 
 ---
